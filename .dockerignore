@@ -1,0 +1,5 @@
+__pycache__
+activate.bat 
+db.sqlite3
+media
+staticfiles

@@ -1,0 +1,189 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-30 18:50+0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: .\customer\templates\basket.html:5
+msgid "Basket"
+msgstr "Sepet"
+
+#: .\customer\templates\basket.html:14 .\customer\templates\contact.html:15
+#: .\templates\layout.html:146 .\templates\layout.html:196
+#: .\templates\layout.html:204
+msgid "Home"
+msgstr "Ana sayfa"
+
+#: .\customer\templates\basket.html:15 .\templates\layout.html:147
+msgid "Shop"
+msgstr "Mağaza"
+
+#: .\customer\templates\basket.html:16
+msgid "Shopping Cart"
+msgstr "Alış-veriş sepeti"
+
+#: .\customer\templates\basket.html:31
+msgid "Products"
+msgstr "Ürünler"
+
+#: .\customer\templates\basket.html:32
+msgid "Price"
+msgstr "Fiyat"
+
+#: .\customer\templates\basket.html:33
+msgid "Quantity"
+msgstr "Kemiyyet"
+
+#: .\customer\templates\basket.html:34 .\customer\templates\basket.html:99
+msgid "Total"
+msgstr "Tümü"
+
+#: .\customer\templates\basket.html:35
+msgid "Remove"
+msgstr "Kaldır"
+
+#: .\customer\templates\basket.html:70
+msgid "Apply Coupon"
+msgstr "Kuponu kullan"
+
+#: .\customer\templates\basket.html:79
+msgid "Cart Summary"
+msgstr "Bəyəninlər"
+
+#: .\customer\templates\basket.html:83
+msgid "Subtotal"
+msgstr "Ürünlerin toplam fiyatı"
+
+#: .\customer\templates\basket.html:87
+msgid "Shipping"
+msgstr "Kargo"
+
+#: .\customer\templates\basket.html:92
+msgid "Discount"
+msgstr "İndirim"
+
+#: .\customer\templates\contact.html:6 .\customer\templates\contact.html:16
+#: .\templates\layout.html:41 .\templates\layout.html:149
+msgid "Contact"
+msgstr "İletişim"
+
+#: .\customer\templates\contact.html:26 .\templates\layout.html:198
+#: .\templates\layout.html:206
+msgid "Contact Us"
+msgstr "Bizimler İletişim"
+
+#: .\customer\templates\contact.html:32
+msgid "Müraciətiniz uğurla göndərildi!"
+msgstr ""
+
+#: .\customer\templates\contact.html:36
+msgid "Uğursuz əməliyyat!"
+msgstr ""
+
+#: .\customer\templates\contact.html:67
+msgid "Send Message"
+msgstr "Mesaj yolla"
+
+#: .\customer\templates\contact.html:79 .\templates\layout.html:187
+msgid "123 Street, New York, USA"
+msgstr ""
+
+#: .\payment\models.py:21
+msgid "The history of this coupon is in the past."
+msgstr "Kupon zaman aşımına uğradı."
+
+#: .\payment\models.py:23
+msgid "The limit of the coupon is over."
+msgstr "Kuponun limiti dolmuştur."
+
+#: .\payment\models.py:25
+msgid "You have already used that coupon"
+msgstr "Bu kupon artık kullanılmıştır"
+
+#: .\payment\models.py:27
+msgid "Coupon is valid"
+msgstr "Kupon uygulandı"
+
+#: .\templates\layout.html:40
+msgid "About"
+msgstr "Hakkımızda"
+
+#: .\templates\layout.html:42
+msgid "Help"
+msgstr "Yardım"
+
+#: .\templates\layout.html:43
+msgid "FAQs"
+msgstr "En çok sorulanlar"
+
+#: .\templates\layout.html:49 .\templates\layout.html:202
+msgid "My Account"
+msgstr "Hesabım"
+
+#: .\templates\layout.html:52
+msgid "Logout"
+msgstr "Çıkış"
+
+#: .\templates\layout.html:54
+msgid "Login"
+msgstr "Giriş"
+
+#: .\templates\layout.html:55 .\templates\layout.html:216
+msgid "Register"
+msgstr "Kayıt ol"
+
+#: .\templates\layout.html:115
+msgid "Customer Service"
+msgstr "Müşteri Hizmetleri"
+
+#: .\templates\layout.html:128
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: .\templates\layout.html:185
+msgid "Get In Touch"
+msgstr ""
+
+#: .\templates\layout.html:186
+msgid ""
+"No dolore ipsum accusam no lorem. Invidunt sed clita kasd clita et et dolor "
+"sed dolor. Rebum tempor no vero est magna amet no"
+msgstr ""
+
+#: .\templates\layout.html:194
+msgid "Quick Shop"
+msgstr ""
+
+#: .\templates\layout.html:197 .\templates\layout.html:205
+msgid "Our Shop"
+msgstr ""
+
+#: .\templates\layout.html:210
+msgid "Newsletter"
+msgstr ""
+
+#: .\templates\layout.html:211
+msgid "Duo stet tempor ipsum sit amet magna ipsum tempor est"
+msgstr ""
+
+#: .\templates\layout.html:220
+msgid "Follow Us"
+msgstr ""
+
+#: .\templates\layout.html:234
+msgid "All Rights Reserved. Designed by HTML Codex"
+msgstr ""
